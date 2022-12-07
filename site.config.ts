@@ -2,7 +2,8 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'Xuan-Liu-s-Portfolio-41650ae864944cb39a2c2835c7d7693d',
+  rootNotionPageId: 'af2068a4863d4fb580deed475388265e',
+  
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +11,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Xuan Liu homepage',
-  domain: 'https://lily-quarter-0bb.notion.site/Xuan-Liu-s-Portfolio-41650ae864944cb39a2c2835c7d7693d',
+  domain: 'https://lily-quarter-0bb.notion.site/Next-js-Notion-Starter-Kit-Template-af2068a4863d4fb580deed475388265ed',
   author: 'Xuan Liu',
 
   // open graph metadata (optional)
