@@ -20,7 +20,7 @@ export default siteConfig({
   // social usernames (optional)
   //twitter: 'transitive_bs',
   github: 'jadecranberry',
-  linkedin: 'Xuan Liu',
+  linkedin: 'xuan-liu-79589920',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
